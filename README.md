@@ -22,7 +22,7 @@ Worked on Compose and reply buttons
 12/23/25
 
 
-Found out about <small> and used it to show how long it’s been since a message has been sent
+Found out about < small > and used it to show how long it’s been since a message has been sent
 
 12/26/25
 
